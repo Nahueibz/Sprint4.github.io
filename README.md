@@ -12,7 +12,7 @@ Este es un proyecto que muestra las ciudades natales de algunos de los empleados
   
 * [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
 
-Enlace al proyecto en GITHUB: https://Sprint4.github.io
+Enlace al proyecto en GITHUB: https://Sprint4.github.io/
 
 **Imágenes**  
   
